@@ -1,0 +1,21 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/letzspread",
+    "fb_url": "https://facebook.com/letsspread",
+    "tw_url": "https://twitter.com/letsspread",
+    "gh_url": "https://github.com/letsspread",
+    "blog_name": "Let's Spread",
+    "tag_line": "Synapse of Blog Buddies",
+    "gmail-user": "myemaill@gmail.com",
+    "gmail-password": "password",
+    "about_text": "Hi there, my name is Sumaiya Aurny Sinja.",
+    "about_text2": "In this website, I will share with you all of the latest articles. Also, our team has done several surveys and create the most popular topics blogs on the web.",
+    "no_of_posts": 4,
+    "admin_user": "sinja",
+    "admin_password": "spreadnow"
+
+
+  }
+
+}
